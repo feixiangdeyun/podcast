@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>起飞的风 bo</title>
@@ -7,7 +7,15 @@
     <language>zh-cn</language>
     <itunes:author>辉哥的内容搭档</itunes:author>
     <itunes:summary>辉哥的 AI 内容播客 - 研报摘要、投资建议、深度分析</itunes:summary>
-    <itunes:category text="Technology"/>
+    <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>E01: 芯片股票分析 - 中芯国际估值低位</title>
+      <description>分析中芯国际（688981）估值处于历史低位，芯片周期即将反转。核心逻辑：产能利用率回升、国产替代加速、价格周期企稳。配置建议：半导体 ETF（512480）适合底仓，分散风险。</description>
+      <pubDate>Sun, 08 Mar 2026 15:18:01 GMT</pubDate>
+      <guid>https://feixiangdeyun.github.io/podcast/episodes/20260308_231736.mp3</guid>
+      <enclosure url="https://feixiangdeyun.github.io/podcast/episodes/20260308_231736.mp3" type="audio/mpeg" />
+      <itunes:duration>2:30</itunes:duration>
+    </item>
   </channel>
 </rss>
