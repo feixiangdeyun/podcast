@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>起飞的风 bo</title>
+    <link>https://feixiangdeyun.github.io/podcast</link>
+    <description>辉哥的 AI 内容播客 - 研报摘要、投资建议、深度分析</description>
+    <language>zh-cn</language>
+    <itunes:author>辉哥的内容搭档</itunes:author>
+    <itunes:summary>辉哥的 AI 内容播客 - 研报摘要、投资建议、深度分析</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+  </channel>
+</rss>
