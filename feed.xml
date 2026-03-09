@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>起飞的风 bo</title>
     <link>https://feixiangdeyun.github.io/podcast</link>
@@ -9,6 +9,14 @@
     <itunes:summary>辉哥的 AI 内容播客 - 研报摘要、投资建议、深度分析</itunes:summary>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>认知提升第一期（上）：普通人的投资估值核心框架</title>
+      <description>第一期普通人的投资估值框架上：一、核心逻辑：3步现金流折现法简化版，不用算公式。所有资产的本质都是未来能给你赚多少钱，估值就是把未来的钱折算成现在的价值，只需要搞清楚3个问题：1.这个资产未来能赚多少钱？也就是未来现金流。2.这些钱多久能赚回来？也就是时间周期。3.未来的不确定性有多大？也就是折现率。举个例子：你买一套房子收租，每年租金5万，预计20年租约稳定，每年房租涨3%，不确定性很低，折现率取5%，那这套房子的合理估值就是5万每年乘以20年乘以（1加3%减5%）≈ 98万，超过这个价格买就不划算。二、实操方法：通用3步估值法，所有资产都能用。第一步：给资产分类，确定核心现金流来源。宽基ETF或白马股的核心现金流来源是企业盈利分红加业绩增长，时间周期10年以上，折现率参考8%到10%。行业ETF或周期股的核心现金流来源是行业周期盈利，时间周期3到5年，折现率参考12%到15%。房产的核心现金流来源是租金加房价上涨，时间周期20年以上，折现率参考5%到8%。创业项目或一级市场股权的核心现金流来源是未来上市或被并购的收益，时间周期5到7年，折现率参考20%到30%。债券或银行理财的核心现金流来源是固定利息，时间周期1到3年，折现率参考3%到5%。第二步：找2个关键数据，不用算复杂公式。1.当前的盈利水平：比如股票的净利润、基金的ROE、房产的年租金。2.未来3年的增长预期：行业平均增速加企业或资产的竞争力溢价。第三步：计算合理估值区间。低估区间：当前价格小于等于未来3年预期盈利乘以1除以折现率乘以0.7。合理区间：当前价格等于未来3年预期盈利乘以1除以折现率。高估区间：当前价格大于等于未来3年预期盈利乘以1除以折现率乘以1.3。</description>
+      <pubDate>Mon, 09 Mar 2026 10:05:23 GMT</pubDate>
+      <guid>https://feixiangdeyun.github.io/podcast/episodes/20260309_180520.mp3</guid>
+      <enclosure url="https://feixiangdeyun.github.io/podcast/episodes/20260309_180520.mp3" type="audio/mpeg" />
+      <itunes:duration>10:00</itunes:duration>
+    </item>
     <item>
       <title>2026年513310中韩半导体ETF投资逻辑拆解：周期反转+国产替代双击机会</title>
       <description># 2026年513310中韩半导体ETF投资逻辑拆解：周期反转+国产替代双击机会
@@ -71,7 +79,7 @@
       <pubDate>Mon, 09 Mar 2026 08:45:54 GMT</pubDate>
       <guid>https://feixiangdeyun.github.io/podcast/episodes/20260309_164417.mp3</guid>
       <enclosure url="https://feixiangdeyun.github.io/podcast/episodes/20260309_164417.mp3" type="audio/mpeg" />
-      <itunes:duration>10:00</itunes:duration>
+      <ns0:duration>10:00</ns0:duration>
     </item>
   </channel>
 </rss>
